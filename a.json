@@ -41,6 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "ext": "http://rzys.xyz"
         },
         {
@@ -51,6 +52,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "ext": "https://www.6080yy3.com/"
         }, 
         {
@@ -58,7 +60,9 @@
             "name": "🏝奥特┃直连",
             "type": 3,
             "api": "csp_Auete",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "searchable": 1,
+            
             "quickSearch": 1,
             "changeable": 1
         },
@@ -67,6 +71,7 @@
             "name": "🎈VOF┃直连",
             "type": 3,
             "api": "csp_Voflix",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -76,6 +81,7 @@
             "key": "AppMr",
             "name": "👻明明┃App",
             "type": 3,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "api": "csp_AppMr",
             "searchable": 1,
             "quickSearch": 1,
