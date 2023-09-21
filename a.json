@@ -44,14 +44,13 @@
         },
 
         {
-            "key": "csp_QB_17kan",
-            "name": "vip3",
+            "key": "Lib",
+            "name": "🌟利播┃直连",
             "type": 3,
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-
-            "api": "csp_XYQBiu",
+            "changeable": 1,
             "ext": "https://www.libvio.pro/"
         }
 
