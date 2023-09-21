@@ -22,7 +22,7 @@
             "filterable": 1,
             "ext": "./b.json"
         },
-      
+
         {
             "key": "csp_xp_cokemv",
             "name": "vip1",
@@ -35,7 +35,7 @@
         },
         {
             "key": "蚂蚁",
-            "name": "🐜蚂蚁┃直连",
+            "name": "😆vip2",
             "type": 3,
             "api": "csp_Mayiys",
             "searchable": 1,
@@ -46,7 +46,7 @@
         },
         {
             "key": "Xinsj",
-            "name": "👓视觉┃直连",
+            "name": "😆vip3",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -54,21 +54,21 @@
             "changeable": 1,
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "ext": "https://www.6080yy3.com/"
-        }, 
+        },
         {
             "key": "Auete",
-            "name": "🏝奥特┃直连",
+            "name": "😆vip4",
             "type": 3,
             "api": "csp_Auete",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
             "searchable": 1,
-            
+
             "quickSearch": 1,
             "changeable": 1
         },
         {
             "key": "Vofl",
-            "name": "🎈VOF┃直连",
+            "name": "😆vip5",
             "type": 3,
             "api": "csp_Voflix",
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
@@ -78,14 +78,36 @@
         },
 
         {
-            "key": "AppMr",
-            "name": "👻明明┃App",
+            "key": "csp_Kuaikan",
+            "name": "😆vip6",
             "type": 3,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
-            "api": "csp_AppMr",
+            "api": "csp_Kuaikan",
+            "jar": " https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1
+        },
+        {
+            "key": "csp_XYQHiker_55影视",
+            "name": "😆vip7",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": " https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/55影视.json"
+        },
+        {
+            "key": "csp_XYQHiker_影渣渣影视",
+            "name": "😆vip8",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": " https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/影渣渣影视.json"
         }
 
 
