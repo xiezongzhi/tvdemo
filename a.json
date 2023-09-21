@@ -23,10 +23,10 @@
             "ext": "./b.json"
         },
         {
-            "key": "csp_xp_zxzj2",
+            "key": "csp_xp_bttwoo",
             "name": "vip1",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -44,17 +44,17 @@
         },
 
         {
-            "key": "csp_xp_wmkankan",
+            "key": "csp_QB_17kan",
             "name": "vip3",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 1,
-            "api": "csp_XPathMacFilter",
+
+            "api": "csp_XYQBiu",
             "ext": "https://www.libvio.pro/"
         }
-      
+
 
     ],
     //解X设置
