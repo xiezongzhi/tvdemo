@@ -29,8 +29,8 @@
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://rzys.xyz"
+            "filterable": 1,
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_xp_cokemv",
@@ -50,8 +50,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+            "playerType": 1,
+            "api": "csp_XPathMacFilter",
+            "ext": "https://www.libvio.pro/"
         }
       
 
