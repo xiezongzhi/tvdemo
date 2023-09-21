@@ -22,19 +22,10 @@
             "filterable": 1,
             "ext": "./b.json"
         },
-        {
-            "key": "csp_xp_bttwoo",
-            "name": "vip1",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080yy3.com/"
-        },
+      
         {
             "key": "csp_xp_cokemv",
-            "name": "vip2",
+            "name": "vip1",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -42,86 +33,50 @@
             "filterable": 1,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
-
         {
-            "key": "Lib",
-            "name": "🌟利播┃直连",
+            "key": "蚂蚁",
+            "name": "🐜蚂蚁┃直连",
             "type": 3,
-            "api": "csp_Libvio",
+            "api": "csp_Mayiys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
         },
         {
-            "key": "贱贱",
-            "name": "🐭贱贱┃p2p",
+            "key": "Xinsj",
+            "name": "👓视觉┃直连",
             "type": 3,
+            "api": "csp_Xinsj",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-        }, {
-            "key": "探探",
-            "name": "🏵影探┃App",
+            "ext": "https://www.6080yy3.com/"
+        }, 
+        {
+            "key": "Auete",
+            "name": "🏝奥特┃直连",
             "type": 3,
-            "playerType": "1",
-            "api": "csp_YTVIP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "vip.lyyytv.cn"
-        }, {
-            "key": "奇奇",
-            "name": "🍓奇奇┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://mp4.ghlyys.com/api.php/app/"
-        }, {
-            "key": "哈喽",
-            "name": "✌哈喽┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        }, {
-            "key": "DiDuan",
-            "name": "⏮️低端┃直连",
-            "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        }, {
-            "key": "77",
-            "name": "👒七七┃App",
+        },
+        {
+            "key": "Vofl",
+            "name": "🎈VOF┃直连",
             "type": 3,
-            "api": "csp_Kunyu77",
+            "api": "csp_Voflix",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        }, {
-            "key": "csp_Nmys",
-            "name": "🌾农民┃直连",
+        },
+
+        {
+            "key": "AppMr",
+            "name": "👻明明┃App",
             "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-        }, {
-            "key": "Cokemv",
-            "name": "📕可乐┃直连",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
+            "api": "csp_AppMr",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
