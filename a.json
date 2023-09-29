@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
+    "spider": "./a620.jar",
     "lives": [{
         "name": "live",
         "type": 0,
@@ -32,83 +32,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-        },
-        {
-            "key": "蚂蚁",
-            "name": "😆vip2",
-            "type": 3,
-            "api": "csp_Mayiys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
-            "ext": "http://rzys.xyz"
-        },
-        {
-            "key": "Xinsj",
-            "name": "😆vip3",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
-            "ext": "https://www.6080yy3.com/"
-        },
-        {
-            "key": "Auete",
-            "name": "😆vip4",
-            "type": 3,
-            "api": "csp_Auete",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
-            "searchable": 1,
-
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Vofl",
-            "name": "😆vip5",
-            "type": 3,
-            "api": "csp_Voflix",
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65c6f3f30d78e020e48588d511f2bfe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-
-        {
-            "key": "csp_Kuaikan",
-            "name": "😆vip6",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "jar": " https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_XYQHiker_55影视",
-            "name": "😆vip7",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": " https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/55影视.json"
-        },
-        {
-            "key": "csp_XYQHiker_影渣渣影视",
-            "name": "😆vip8",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": " https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/影渣渣影视.json"
         }
+        
 
 
     ],
